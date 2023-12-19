@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive - ULEAM\Escritorio\Sistemadeventas\bin\Debug\net8.0\Sistemadeventas.exe
+C:\Users\User\OneDrive - ULEAM\Escritorio\Sistemadeventas\bin\Debug\net8.0\Sistemadeventas.deps.json
+C:\Users\User\OneDrive - ULEAM\Escritorio\Sistemadeventas\bin\Debug\net8.0\Sistemadeventas.runtimeconfig.json
+C:\Users\User\OneDrive - ULEAM\Escritorio\Sistemadeventas\bin\Debug\net8.0\Sistemadeventas.dll
+C:\Users\User\OneDrive - ULEAM\Escritorio\Sistemadeventas\bin\Debug\net8.0\Sistemadeventas.pdb
+C:\Users\User\OneDrive - ULEAM\Escritorio\Sistemadeventas\obj\Debug\net8.0\Sistemadeventas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive - ULEAM\Escritorio\Sistemadeventas\obj\Debug\net8.0\Sistemadeventas.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive - ULEAM\Escritorio\Sistemadeventas\obj\Debug\net8.0\Sistemadeventas.AssemblyInfo.cs
+C:\Users\User\OneDrive - ULEAM\Escritorio\Sistemadeventas\obj\Debug\net8.0\Sistemadeventas.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - ULEAM\Escritorio\Sistemadeventas\obj\Debug\net8.0\Sistemadeventas.dll
+C:\Users\User\OneDrive - ULEAM\Escritorio\Sistemadeventas\obj\Debug\net8.0\refint\Sistemadeventas.dll
+C:\Users\User\OneDrive - ULEAM\Escritorio\Sistemadeventas\obj\Debug\net8.0\Sistemadeventas.pdb
+C:\Users\User\OneDrive - ULEAM\Escritorio\Sistemadeventas\obj\Debug\net8.0\Sistemadeventas.genruntimeconfig.cache
+C:\Users\User\OneDrive - ULEAM\Escritorio\Sistemadeventas\obj\Debug\net8.0\ref\Sistemadeventas.dll

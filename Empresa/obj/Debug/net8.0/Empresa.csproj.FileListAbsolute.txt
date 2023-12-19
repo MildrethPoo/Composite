@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive - ULEAM\Escritorio\Empresa\bin\Debug\net8.0\Empresa.exe
+C:\Users\User\OneDrive - ULEAM\Escritorio\Empresa\bin\Debug\net8.0\Empresa.deps.json
+C:\Users\User\OneDrive - ULEAM\Escritorio\Empresa\bin\Debug\net8.0\Empresa.runtimeconfig.json
+C:\Users\User\OneDrive - ULEAM\Escritorio\Empresa\bin\Debug\net8.0\Empresa.dll
+C:\Users\User\OneDrive - ULEAM\Escritorio\Empresa\bin\Debug\net8.0\Empresa.pdb
+C:\Users\User\OneDrive - ULEAM\Escritorio\Empresa\obj\Debug\net8.0\Empresa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive - ULEAM\Escritorio\Empresa\obj\Debug\net8.0\Empresa.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive - ULEAM\Escritorio\Empresa\obj\Debug\net8.0\Empresa.AssemblyInfo.cs
+C:\Users\User\OneDrive - ULEAM\Escritorio\Empresa\obj\Debug\net8.0\Empresa.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - ULEAM\Escritorio\Empresa\obj\Debug\net8.0\Empresa.dll
+C:\Users\User\OneDrive - ULEAM\Escritorio\Empresa\obj\Debug\net8.0\refint\Empresa.dll
+C:\Users\User\OneDrive - ULEAM\Escritorio\Empresa\obj\Debug\net8.0\Empresa.pdb
+C:\Users\User\OneDrive - ULEAM\Escritorio\Empresa\obj\Debug\net8.0\Empresa.genruntimeconfig.cache
+C:\Users\User\OneDrive - ULEAM\Escritorio\Empresa\obj\Debug\net8.0\ref\Empresa.dll
